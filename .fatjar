@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Oct 11 17:47:15 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ScreenCapture_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.lenovo.ScreenCapture.MainWindow
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
